@@ -26,7 +26,7 @@ print("Mixed Strings types",b)
 print("Mixed data types",c)
 
 #2. Using Constructor --> list()
-Customer=list("CustomerName","CustomerLastname","Adress","PhoneNumber")
+Customer=list("CustomerName")
 print("Constructor result : ",Customer)
 
 #3. Creating List with Repeated Elements

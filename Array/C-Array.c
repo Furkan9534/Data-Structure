@@ -1,6 +1,5 @@
  
  // Array
- 
 
     int numbers[] = {2, 4, 8, 12, 16, 18};
     int n = sizeof(numbers)/sizeof(numbers[0]);

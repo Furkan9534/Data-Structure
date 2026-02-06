@@ -1,6 +1,6 @@
 # Array / List
 
-## 🇹🇷
+## 
 
 Bu klasörde aynı veri yapısının farklı dillerdeki karşılıkları
 ve kullanım örnekleri bulunmaktadır.
@@ -41,7 +41,7 @@ Feature vektörlerinin liste halinde tutulması.
 
 ---
 
-## 🇬🇧
+## 
 
 This folder contains examples of the same data structure
 implemented in multiple programming languages.
